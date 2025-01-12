@@ -1,0 +1,12 @@
+html {
+    font-size: 62.5%;
+}
+
+.box {
+  border: 3px solid orange;
+  /* 1em = 16px */
+  width: 16em; 
+  height: 16em;
+  box-sizing: border-box;
+  font-size: 3rem;
+}
