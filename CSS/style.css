@@ -9,4 +9,8 @@ html {
   height: 16em;
   box-sizing: border-box;
   font-size: 3rem;
+  /* overflow part is hidden */
+  /* overflow: hidden; */
+  /* scrolling if there is overflow */
+  overflow: auto;
 }
